@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>测试 - 分类 - Seven Coffee Cups | Daniel&#39;s Blog Site</title>
+        <link>https://www.danielhu.cn/categories/%E6%B5%8B%E8%AF%95/</link>
+        <description>测试 - 分类 - Seven Coffee Cups | Daniel&#39;s Blog Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</lastBuildDate><atom:link href="https://www.danielhu.cn/categories/%E6%B5%8B%E8%AF%95/" rel="self" type="application/rss+xml" /><item>
+    <title>测试文章</title>
+    <link>https://www.danielhu.cn/test/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://www.danielhu.cn/test/</guid>
+    <description><![CDATA[没有标题 没有标题 没有标题]]></description>
+</item></channel>
+</rss>
