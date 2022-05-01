@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cloud Native - 标签 - 胡涛的个人网站 | Seven Coffee Cups</title>
+        <link>https://www.danielhu.cn/tags/cloud-native/</link>
+        <description>Cloud Native - 标签 - 胡涛的个人网站 | Seven Coffee Cups</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>farmer.hutao@outlook.com (胡涛 | Daniel Hu)</managingEditor>
+            <webMaster>farmer.hutao@outlook.com (胡涛 | Daniel Hu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.danielhu.cn/tags/cloud-native/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting Started with minikube</title>
+    <link>https://www.danielhu.cn/getting-started-with-minikube/</link>
+    <pubDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://www.danielhu.cn/getting-started-with-minikube/</guid>
+    <description><![CDATA[<p>What’s up guys, this is Daniel! Yeah, this English blog is WRITTEN by me, not TRANSLATED by me! It’s my first English blog in my whole life. If you are a Chinese reader, maybe you’ve ever seen my Chinese blogs before. Right, I wrote a lot of blogs, but only in Chinese. Believe it or not, English isn’t my strong suit. But I want to have a try today and I’ll do my best. Let’s get started.</p>]]></description>
+</item></channel>
+</rss>

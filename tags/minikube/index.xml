@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Kubernetes - 分类 - 胡涛的个人网站 | Seven Coffee Cups</title>
-        <link>https://www.danielhu.cn/categories/kubernetes/</link>
-        <description>Kubernetes - 分类 - 胡涛的个人网站 | Seven Coffee Cups</description>
+        <title>minikube - 标签 - 胡涛的个人网站 | Seven Coffee Cups</title>
+        <link>https://www.danielhu.cn/tags/minikube/</link>
+        <description>minikube - 标签 - 胡涛的个人网站 | Seven Coffee Cups</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>farmer.hutao@outlook.com (胡涛 | Daniel Hu)</managingEditor>
-            <webMaster>farmer.hutao@outlook.com (胡涛 | Daniel Hu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.danielhu.cn/categories/kubernetes/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>farmer.hutao@outlook.com (胡涛 | Daniel Hu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.danielhu.cn/tags/minikube/" rel="self" type="application/rss+xml" /><item>
     <title>Getting Started with minikube</title>
     <link>https://www.danielhu.cn/getting-started-with-minikube/</link>
     <pubDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</pubDate>
